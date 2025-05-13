@@ -1,2 +1,2 @@
-# yash_upadhya
+# yash_upadhyay
 hi this is my first git repository
